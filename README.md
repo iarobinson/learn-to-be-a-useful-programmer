@@ -22,7 +22,10 @@ Rough Instructions:
 - Create a new pull request
 - Once your pull request has been created, I'll figure out the next step :D
 
+BONUS: Bonus points will be awarded to the person who documents their process for writing their name to this repository. Extra bonus points for the person who submits a PR with written instructions on how to add one's name to this repository.
+
 If you don't know how to do that, add an issue using the tab above and I'll create something to move you forward to that step.
+
 
 ## Contributors
 
