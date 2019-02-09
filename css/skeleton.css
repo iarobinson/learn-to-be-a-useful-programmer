@@ -162,6 +162,11 @@ a {
 a:hover {
   color: #0FA0CE; }
 
+show-all {
+  color: #370781; }
+show-all:hover {
+  color: #9BF215; }
+
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
