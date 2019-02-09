@@ -1,6 +1,6 @@
 ## Goal
 
-The goal of this project is to develop a process which will morph those with no programming knowledge to become people who can make meaningful (and thus paid) contributions to web applications.
+The goal of this project is to develop a web app that runs young programmers through a process which will teach them to make meaningful (and thus paid) contributions to web applications.
 
 [Click here to see the development in progress.](https://iarobinson.github.io/learn-to-be-a-useful-programmer/)
 
