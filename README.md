@@ -26,6 +26,29 @@ BONUS: Bonus points will be awarded to the person who documents their process fo
 
 If you don't know how to do that, add an issue using the tab above and I'll create something to move you forward to that step.
 
+## Gudie to Creating your First Pull Request
+
+1. Sign up for a github account at `github.com`
+2. Use a web browser (ex. Google Chrome or Safari) to visit 
+        `https://github.com/iarobinson/learn-to-be-a-useful-programmer`
+3. Open Terminal Application
+        `cmd + spacebar` and type `terminal`
+4. In the terminal application, change directory to your desktop 
+        `cd ~/Desktop` 
+3. In the terminal application, clone this repository
+        `git clone https://github.com/iarobinson/learn-to-be-a-useful-programmer`
+4. In the terminal application, change directory into the code repository you just cloned
+        `cd learn-to-be-a-useful-programmer`
+5. Create a new git branch, but remove YOURNAMEHERE and replace it with your name (Example ianRobinson or sallyMay)
+        `git checkout -b YOURNAMEHERE`
+6. In the terminal application, open the README.md file
+        `open README.md`
+7. Your text editor should launch with the README.md file. Change the file by adding your name to the collaborators
+8. In your text editor, save your work in the README.md by clicking File>Save or `cmd + s`
+9. In the terminal application, type `git add .` - This stages the changes you just made to the file
+10. In the terminal application, type `git commit -m "CUSTOM MESSAGE HERE" - This commits your work with a note. You should replace CUSTOME MESSAGE HERE with something that quickly describes your changes
+11. `
+
 
 ## Contributors
 
