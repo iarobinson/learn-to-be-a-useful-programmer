@@ -26,9 +26,15 @@ BONUS: Bonus points will be awarded to the person who documents their process fo
 
 If you don't know how to do that, add an issue using the tab above and I'll create something to move you forward to that step.
 
+## Guide to Requesting Collaborator Status
+
+In order to learn to code, we need to start collaborating on a project
+
+1.
+
 ## Gudie to Creating your First Pull Request
 
-1. Sign up for a github account at `github.com`
+1. Sign up for (or sign in to) a github account at `github.com`
 2. Use a web browser (ex. Google Chrome or Safari) to visit 
         `https://github.com/iarobinson/learn-to-be-a-useful-programmer`
 3. Open Terminal Application
@@ -47,8 +53,13 @@ If you don't know how to do that, add an issue using the tab above and I'll crea
 8. In your text editor, save your work in the README.md by clicking File>Save or `cmd + s`
 9. In the terminal application, type `git add .` - This stages the changes you just made to the file
 10. In the terminal application, type `git commit -m "CUSTOM MESSAGE HERE" - This commits your work with a note. You should replace CUSTOME MESSAGE HERE with something that quickly describes your changes
-11. `
-
+11. In the terminal application, type `git push` - This will generate an error which will give you the command to tell git where to push your code. Copy the command it gives you. For me, it was `git push --set-upstream origin ianrobinson1984/specific_notes_on_creating_a_pr`.
+12. In the terminal application, run the code that you found in the error from the previous step. For me it was `git push --set-upstream origin ianrobinson1984/specific_notes_on_creating_a_pr`
+13. Use your browser to navigate to the pull request section of this repository
+        `https://github.com/iarobinson/learn-to-be-a-useful-programmer/pulls`
+14. As you're a collaborator, you should see a browser element which allows you to create a pull request
+15. Click `Compare & Pull` button
+16. Fill in pull request message and click `Create pull request`
 
 ## Contributors
 
