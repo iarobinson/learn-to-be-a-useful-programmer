@@ -3,16 +3,32 @@
     <script src="js/indexSupport.js"></script>
     <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <link rel="stylesheet" type="text/css" href="css/skeleton.css">
+    <style>
+      .video-responsive{
+          overflow:hidden;
+          padding-bottom:56.25%;
+          position:relative;
+          height:0;
+      }
+      .video-responsive iframe{
+          left:0;
+          top:0;
+          height:100%;
+          width:100%;
+          position:absolute;
+      }
+    </style>
   </head>
   <body>
     <div class="container">
       <center>
         <h1>Learn to be a useful programmer</h1>
-        <h2><a href="https://github.com/iarobinson/learn-to-be-a-useful-programmer/issues/1" class="button button-primary">Become a Collaborator</a></h2>
-        <p><strong>Step #1 - </strong><a href="https://github.com/iarobinson/learn-to-be-a-useful-programmer/issues/1">Introduce yourself and get approved as a collaborator.</a></p>
+        <h3><a href="https://github.com/iarobinson/learn-to-be-a-useful-programmer/issues/1" class="button button-primary">Become a Collaborator</a></h3>
       </center>
       <div class="row">
-        <div class="six columns">
+        <div class="eight columns">
+          <h3>Step #1</h3>
+          <p><a href="https://github.com/iarobinson/learn-to-be-a-useful-programmer/issues/1">Introduce yourself and get approved as a collaborator.</a></p>
           <h3>Step #2</h3>
           <ul>
             <li>In your terminal, type: <br><code>git clone https://github.com/iarobinson/learn-to-be-a-useful-programmer.git</code></li>
@@ -28,9 +44,12 @@
             <li>Once your pull request has been created, I'll figure out the next step :D</li>
           </ul>
         </div>
-        <div class="six columns">
-          <h2>Collaborate to Learn</h2>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/pwbexWdlSh4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="four columns">
+          <h2>Collaborate</h2>
+          <div class="video-responsive">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/pwbexWdlSh4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <hr>
           <h3>Contributors</h3>
           <table class="u-full-width">
             <thead>
@@ -57,7 +76,9 @@
       </div>
       <center>
         <h3>How to Create Your First Pull Request</h3>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/YicCGAHibs0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="video-responsive">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/YicCGAHibs0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
       </center>
     </div>
   </body>
