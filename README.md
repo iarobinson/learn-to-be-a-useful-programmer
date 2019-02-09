@@ -2,6 +2,8 @@
 
 The goal of this project is to develop a process which will morph those with no programming knowledge to become people who can make meaningful (and thus paid) contributions to web applications.
 
+[Click here to see the development in progress.](https://iarobinson.github.io/learn-to-be-a-useful-programmer/)
+
 ## Workflow
 
 The only way this will work is if I can find a young programmer to work with while developing this system. If you are interested, I'd love to help you learn to code while we build this process.
@@ -35,12 +37,12 @@ In order to learn to code, we need to start collaborating on a project
 ## Gudie to Creating your First Pull Request
 
 1. Sign up for (or sign in to) a github account at `github.com`
-2. Use a web browser (ex. Google Chrome or Safari) to visit 
+2. Use a web browser (ex. Google Chrome or Safari) to visit
         `https://github.com/iarobinson/learn-to-be-a-useful-programmer`
 3. Open Terminal Application
         `cmd + spacebar` and type `terminal`
-4. In the terminal application, change directory to your desktop 
-        `cd ~/Desktop` 
+4. In the terminal application, change directory to your desktop
+        `cd ~/Desktop`
 3. In the terminal application, clone this repository
         `git clone https://github.com/iarobinson/learn-to-be-a-useful-programmer`
 4. In the terminal application, change directory into the code repository you just cloned
