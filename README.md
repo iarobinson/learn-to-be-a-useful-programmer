@@ -8,33 +8,16 @@ The goal of this project is to develop a process which will morph those with no 
 
 The only way this will work is if I can find a young programmer to work with while developing this system. If you are interested, I'd love to help you learn to code while we build this process.
 
-## First Step
+## First Step: Guide to Requesting Collaborator Status
 
-Make a pull request on this repository by simply adding your name to the contributor list below. From there we can develop further.
+In order to learn to code, we need to start collaborating on a project.
 
-Rough Instructions:
-- In your terminal, type `git clone https://github.com/iarobinson/learn-to-be-a-useful-programmer.git`
-- `cd learn-to-be-a-useful-programmer` enter the directory
-- Open `README.md` in your text editor
-- Add your name to the README.md file (replace YOUR NAME HERE with your name in the section below)
-- Save the file
-- `git push`
-- Navigate to `Pull Request` tab
-- Your git branch should be clickable
-- Create a new pull request
-- Once your pull request has been created, I'll figure out the next step :D
+1. Visit [Issue One](https://github.com/iarobinson/learn-to-be-a-useful-programmer/issues/1) and leave a comment
+2. You'll have to wait for me to see your comment and add you as a collaborator.
+3. Once I add you as a collaborator, you'll receive an email to join. Click the link in that email.
+4. At that point you can make your first pull request. That is the second step, detailed below.
 
-BONUS: Bonus points will be awarded to the person who documents their process for writing their name to this repository. Extra bonus points for the person who submits a PR with written instructions on how to add one's name to this repository.
-
-If you don't know how to do that, add an issue using the tab above and I'll create something to move you forward to that step.
-
-## Guide to Requesting Collaborator Status
-
-In order to learn to code, we need to start collaborating on a project
-
-1.
-
-## Gudie to Creating your First Pull Request
+## Second Step: Gudie to Creating your First Pull Request
 
 1. Sign up for (or sign in to) a github account at `github.com`
 2. Use a web browser (ex. Google Chrome or Safari) to visit
