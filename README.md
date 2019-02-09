@@ -30,4 +30,5 @@ If you don't know how to do that, add an issue using the tab above and I'll crea
 ## Contributors
 
 - Ian is all alone right now.
+- Ian with a different email for making the video
 - YOUR NAME HERE
