@@ -168,6 +168,59 @@ show-all:hover {
   color: #9BF215; }
 
 
+
+.navbar {
+    overflow: hidden;
+    background-color: 33c3f0;
+}
+
+.dropdown {
+    float: left;
+    /* overflow: hidden; */
+}
+
+.dropdown .dropbtn {
+    font-size: 10px;
+    border: none;
+    outline: none;
+    color: 33c3f0;
+    padding: 14px 16px;
+    background-color: 33c3f0;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: 33c3f0;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: 33c3f0;
+    min-width: 120px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+  .dropdown-content a:hover {
+    background-color: 33c3f0;
+}
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button,
