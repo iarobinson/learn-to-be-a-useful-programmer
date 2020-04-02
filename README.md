@@ -1,14 +1,12 @@
+# [Useful Programmer - First Git Commit](https://iarobinson.github.io/learn-to-be-a-useful-programmer/)
+
 ## Goal
 
-The goal of this project is to develop a web app that runs young programmers through a process which will teach them to make meaningful (and thus paid) contributions to web applications.
+The goal in this project is to allow new programmers to create their first pull request on GitHub. An initial successful PR will be when the new programmer adds their name to the page linked above. The second successful Pr will be when the new programmer adds their individual collaborator page to the page linked above.
 
-[Click here to see the development in progress.](https://iarobinson.github.io/learn-to-be-a-useful-programmer/)
+This is a simple starter project for early stage programmers.
 
-If you're awating anything from me, [please tweet me](https://twitter.com/independentian).
-
-## Workflow
-
-The only way this will work is if I can find a young programmer to work with while developing this system. If you are interested, I'd love to help you learn to code while we build this process.
+If you're awating anything from me, [please join our Slack channel](https://usefulprogrammer.slack.com/archives/CP29ZJBQC).
 
 ## Making Your First contribution
 
